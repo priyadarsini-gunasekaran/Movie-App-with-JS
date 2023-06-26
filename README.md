@@ -1,23 +1,23 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/sohammanjrekar/Movie-App-Using-HTML-CSS-JS">
-    <img src="https://64.media.tumblr.com/ac6d0f4d34a90cda7bfd7a3c6cb4f016/afb7fcf7e4f99e44-ea/s500x750/3db6466952c8c899ba5efec6ad1de56cee068f2f.pnj" alt="Logo" width="80" height="80">
+  <a href="https://github.com/priyadarsini-gunasekaran/Movie-App-with-JS">
+    <img src="./images/Screenshot.png.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Simple  Movie App</h3>
 
   <p align="center">
-    Simple  Movie App  using HTML CSS JS.
+    Movie App with JS
     <br/>
     <br/>
-    <a href="https://github.com/sohammanjrekar/Movie-App-Using-HTML-CSS-JS"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/priyadarsini-gunasekaran/Movie-App-with-JS"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/sohammanjrekar/Movie-App-Using-HTML-CSS-JS">View Demo</a>
+    <a href="https://github.com/priyadarsini-gunasekaran/Movie-App-with-JS">View Demo</a>
     .
-    <a href="https://github.com/sohammanjrekar/Movie-App-Using-HTML-CSS-JS/issues">Report Bug</a>
+    <a href="https://github.com/priyadarsini-gunasekaran/Movie-App-with-JS/issues">Report Bug</a>
     .
-    <a href="https://github.com/sohammanjrekar/Movie-App-Using-HTML-CSS-JS/issues">Request Feature</a>
+    <a href="https://github.com/priyadarsini-gunasekaran/Movie-App-with-JS/issues">Request Feature</a>
   </p>
 </p>
 
@@ -34,7 +34,7 @@
 
 ## About The Project
 
-![Screen Shot](https://64.media.tumblr.com/ea15905e8520c057b5f2e74f8a062baf/b5f937b7e9f344a4-97/s2048x3072/2a8529143cc60f912574c8b08a3fdd14300e1175.pnj)
+
 
 A website with movie, serie and anime catalog, made with JavaScript.his is a movie app where you can search for any Movie/TV Show and retrieve information about the same.
 
@@ -49,15 +49,15 @@ A website with movie, serie and anime catalog, made with JavaScript.his is a mov
 
 ## Roadmap
 
-See the [open issues](https://github.com/sohammanjrekar/Movie-App-Using-HTML-CSS-JS/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/priyadarsini-gunasekaran/Movie-App-with-JS/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/sohammanjrekar/Movie-App-Using-HTML-CSS-JS/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/priyadarsini-gunasekaran/Movie-App-with-JS/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/sohammanjrekar/Movie-App-Using-HTML-CSS-JS/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+* Please also read through the [Code Of Conduct](https://github.com/priyadarsini-gunasekaran/Movie-App-with-JS/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
 ### Creating A Pull Request
 
@@ -69,10 +69,10 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/sohammanjrekar/Movie-App-Using-HTML-CSS-JS/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/priyadarsini-gunasekaran/Movie-App-with-JS/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
-* **Soham Manjrekar** - *Comp Sci Student* - [Soham Manjrekar](https://github.com/sohammanjreakr/) - *Built website*
+* **Priya Satish** - *Learning to code* - [Priya Satish](https://github.com/priyadarsini-gunasekaran/) - *Built website*
 
 
