@@ -4,7 +4,7 @@
     <img src="./images/Screenshot.png.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Simple  Movie App</h3>
+  <h3 align="center">Movie App with JS</h3>
 
   <p align="center">
     Movie App with JS
@@ -21,7 +21,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/sohammanjrekar/Movie-App-Using-HTML-CSS-JS/total) ![Contributors](https://img.shields.io/github/contributors/sohammanjrekar/Movie-App-Using-HTML-CSS-JS?color=dark-green) ![Forks](https://img.shields.io/github/forks/sohammanjrekar/Movie-App-Using-HTML-CSS-JS?style=social) ![Stargazers](https://img.shields.io/github/stars/sohammanjrekar/Movie-App-Using-HTML-CSS-JS?style=social) ![Issues](https://img.shields.io/github/issues/sohammanjrekar/Movie-App-Using-HTML-CSS-JS) ![License](https://img.shields.io/github/license/sohammanjrekar/Movie-App-Using-HTML-CSS-JS) 
+
 
 ## Table Of Contents
 
@@ -34,7 +34,7 @@
 
 ## About The Project
 
-
+<img src="./images/Screenshot.png.png">
 
 A website with movie, serie and anime catalog, made with JavaScript.his is a movie app where you can search for any Movie/TV Show and retrieve information about the same.
 
